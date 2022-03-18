@@ -1,0 +1,16 @@
+﻿  Customer.cpp
+F:\3-2-Projects\data_structure_project\data_structure_project\Customer.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+F:\3-2-Projects\data_structure_project\data_structure_project\Customer.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+F:\3-2-Projects\data_structure_project\data_structure_project\Customer.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+  product.cpp
+  seller.cpp
+F:\3-2-Projects\data_structure_project\data_structure_project\seller.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+F:\3-2-Projects\data_structure_project\data_structure_project\seller.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+F:\3-2-Projects\data_structure_project\data_structure_project\Source.cpp(99,24): warning C4018: '<': signed/unsigned mismatch
+F:\3-2-Projects\data_structure_project\data_structure_project\Source.cpp(153,24): warning C4018: '<': signed/unsigned mismatch
+F:\3-2-Projects\data_structure_project\data_structure_project\Source.cpp(173,10): warning C4101: 's': unreferenced local variable
+F:\3-2-Projects\data_structure_project\data_structure_project\Source.cpp(263,23): warning C4018: '<': signed/unsigned mismatch
+F:\3-2-Projects\data_structure_project\data_structure_project\Source.cpp(277,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  data_structure_project.vcxproj -> F:\3-2-Projects\data_structure_project\Debug\data_structure_project.exe
